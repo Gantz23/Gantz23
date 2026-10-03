@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Iqmal 👋
 
 I'm a **[Your Role / Title]** passionate about building modern web applications and open-source software.
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **[New Tech/Framework]**
 - 💬 Ask me about **Python, React, System Design**
-- 📫 How to reach me: **[email@example.com]** or **[LinkedIn Profile]**
+- 📫 How to reach me: **[iqmalrosli12@gmail.com]** or **[https://www.linkedin.com/in/iqmal-rosli-508a8720a/]**
 
 ---
 
