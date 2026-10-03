@@ -1,28 +1,25 @@
-# Hi there, I'm Iqmal 👋
+# Hi, I'm Iqmal bin Rosli 👋
 
-I'm a **[Your Role / Title]** passionate about building modern web applications and open-source software.
+I am a Data Engineer with a strong background in data architecture, automated workflows, and compliance analytics. I specialize in building robust ETL pipelines and multi-stage data warehouses to process high-volume enterprise data efficiently. 
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Tech/Framework]**
-- 💬 Ask me about **Python, React, System Design**
-- 📫 How to reach me: **[iqmalrosli12@gmail.com]** or **[https://www.linkedin.com/in/iqmal-rosli-508a8720a/]**
+## 🛠️ Tech Stack & Tools
+* **Languages & Databases:** Python, Oracle SQL, Microsoft SQL Server
+* **Data Architecture & Cloud:** Databricks, Medallion Architecture (Bronze, Silver, Gold layers)
+* **Automation & Orchestration:** Power Automate, n8n, Selenium
+* **BI & Analytics:** Power BI, Excel
 
----
+## 💼 Experience Highlights
+* **Data Engineering & Compliance @ Maybank:** 
+  * Managed the extraction and normalization of over 3 million cross-border records using Oracle SQL.
+  * Built automated Python and Power Automate workflows, reducing manual processing time by 40% and enabling near real-time data synchronization across six regions.
+  * Developed a Python Selenium script to automate AML (Anti-Money Laundering) documentation, cutting manual screenshot time by 85% across 13 scenarios.
+  * Deployed Suspicious Transaction Report (STR) monitoring dashboards in Power BI.
+* **Data Analysis @ Prosains:** Analyzed over 1,000 datasets to trace cost discrepancies, improving financial data accuracy by 90%.
 
-### 🛠 Tech Stack
+## 🚀 What I'm Doing Now
+I actively build end-to-end data architectures, deploying real-time API data extraction workflows using n8n and structuring multi-layer data warehouses in MS SQL Server.
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+## 📫 How to Reach Me
+* **Location:** Petaling Jaya, Selangor, Malaysia
+* **Email:** iqmalrosli12@gmail.com
+* **LinkedIn:** [linkedin.com/in/iqmalrosli](#)
