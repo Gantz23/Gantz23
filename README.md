@@ -21,6 +21,12 @@ I am a Data Engineer with a strong background in data architecture, automated wo
 ## 🚀 What I'm Doing Now
 I actively build end-to-end data architectures, deploying real-time API data extraction workflows using n8n and structuring multi-layer data warehouses in MS SQL Server.
 
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [Portfolio](https://github.com/user/portfolio) | Personal portfolio website | React, Tailwind CSS |
+| [Task Tracker](https://github.com/user/tracker) | A minimalist task management app | Python, SQLite |
+| [Weather API](https://github.com/user/weather) | Real-time weather dashboard | FastAPI, Redis |
+
 ## 📫 How to Reach Me
 * **Location:** Petaling Jaya, Selangor, Malaysia
 * **Email:** iqmalrosli12@gmail.com
