@@ -25,3 +25,4 @@ I actively build end-to-end data architectures, deploying real-time API data ext
 * **Location:** Petaling Jaya, Selangor, Malaysia
 * **Email:** iqmalrosli12@gmail.com
 * **LinkedIn:** [linkedin.com/in/iqmalrosli](#)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/iqmalrosli)
