@@ -1,3 +1,5 @@
+![Profile Banner](./assets/banner.png)
+
 # Hi, I'm Iqmal bin Rosli 👋
 
 I am a Data Engineer with a strong background in data architecture, automated workflows, and compliance analytics. I specialize in building robust ETL pipelines and multi-stage data warehouses to process high-volume enterprise data efficiently. 
