@@ -1,4 +1,4 @@
-![Profile Banner](./assets/banner.png)
+![Profile Banner](./assets/banner.jpg)
 
 # Hi, I'm Iqmal bin Rosli 👋
 
