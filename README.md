@@ -27,6 +27,12 @@ I actively build end-to-end data architectures, deploying real-time API data ext
 | [Task Tracker](https://github.com/user/tracker) | A minimalist task management app | Python, SQLite |
 | [Weather API](https://github.com/user/weather) | Real-time weather dashboard | FastAPI, Redis |
 
+### 📜 Certifications & Licenses
+
+- 🎓 [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/your-badge-url) — *Amazon Web Services* (Issued: Jan 2024)
+- 🎓 [**Certified Kubernetes Administrator (CKA)**](https://www.cncf.io/your-badge-url) — *Linux Foundation* (Issued: Nov 2023)
+- 🎓 [**Meta Front-End Developer Specialization**](https://www.coursera.org/verify/your-cert-id) — *Coursera* (Issued: Jun 2023)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
