@@ -29,11 +29,12 @@ I actively build end-to-end data architectures, deploying real-time API data ext
 
 ### 📜 Certifications & Licenses
 
-- 🎓 [**PeopleCert Data Science Foundation and Analyst Course**]([https://www.credly.com/your-badge-url](https://www.linkedin.com/in/iqmal-rosli-508a8720a/)) — *Yayasan Peneraju* (Issued: Jul 2026)
-- 🎓 [**MSDP-DVD - Data Visualization and Dashboards with Power BI**](https://trainocate.com/certificate/9c6507c8-57a4-4a1f-ac0c-ea617b3f4f33)) — *Trainocate Malaysia* (Issued: May 2026)
-- 🎓 [**AWS-GAIEX - Generative AI for Executives**](https://www.coursera.org/verify/your-cert-id) — *Trainocate Malaysia* (Issued: Mar 2026)
-- 🎓 [**MMCOSAD - Mastering Microsoft Copilot Studio- From Custom Agent Development to M365 Extensibility**]([https://trainocate.com/certificate/90fe0eff-51e9-4d69-a36c-28ae1098d6a0]) — *Trainocate Malaysia* (Issued: Mar 2026)
-- 🎓 [**AWS-GAIEX - Generative AI for Executives**](https://www.coursera.org/verify/your-cert-id) — *Trainocate Malaysia* (Issued: Mar 2026)
+🎓 [**PeopleCert Data Science Foundation and Analyst Course**]([https://www.credly.com/your-badge-url](https://www.linkedin.com/in/iqmal-rosli-508a8720a/)) — *Yayasan Peneraju* (Issued: Jul 2026)
+🎓 [**MSDP-DVD - Data Visualization and Dashboards with Power BI**](https://trainocate.com/certificate/9c6507c8-57a4-4a1f-ac0c-ea617b3f4f33) — *Trainocate Malaysia* (Issued: May 2026)
+🎓 [**AWS-GAIEX - Generative AI for Executives**](https://www.coursera.org/verify/your-cert-id) — *Trainocate Malaysia* (Issued: Mar 2026)
+🎓 [**MMCOSAD - Mastering Microsoft Copilot Studio- From Custom Agent Development to M365 Extensibility**](https://trainocate.com/certificate/90fe0eff-51e9-4d69-a36c-28ae1098d6a0) — *Trainocate Malaysia* (Issued: Mar 2026)
+🎓 [**Power BI Mastery in a Day: Design, Govern, and Deliver Cutting-Edge Data Solutions**](https://trainocate.com/certificate/282e2851-2be9-4c74-a3db-3a83bfa6043f) — *Trainocate Malaysia* (Issued: Feb 2026)
+🎓 [**AI for MY Future**]([https://trainocate.com/certificate/282e2851-2be9-4c74-a3db-3a83bfa6043f](https://pepper-s-site-1c7b.thinkific.com/certificates/jddg0tmrsx)) — *Microsoft* (Issued: Apr 2025)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
