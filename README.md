@@ -38,7 +38,12 @@ I am currently part of the **Maybank Protégé Program** within **Group Complian
 * **Location:** Petaling Jaya, Selangor, Malaysia
 * **Email:** iqmalrosli12@gmail.com
 * **LinkedIn:** [linkedin.com/in/iqmalrosli](#)
+---
 
-| | | |
-| :---: | :---: | :---: |
-| ![card1](./assets/skeleton-computer.jpg) | ![card2](./assets/cat-drooling.png) | ![card3](./assets/drake-computer.gif) |
+<table>
+  <tr>
+    <td align="center"><img src="./assets/skeleton-computer.jpg" alt="card1" width="250"/></td>
+    <td align="center"><img src="./assets/cat-drooling.png" alt="card2" width="250"/></td>
+    <td align="center"><img src="./assets/drake-computer.gif" alt="card3" width="250"/></td>
+  </tr>
+</table>
