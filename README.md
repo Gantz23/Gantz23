@@ -29,9 +29,11 @@ I actively build end-to-end data architectures, deploying real-time API data ext
 
 ### 📜 Certifications & Licenses
 
-- 🎓 [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/your-badge-url) — *Amazon Web Services* (Issued: Jan 2024)
-- 🎓 [**Certified Kubernetes Administrator (CKA)**](https://www.cncf.io/your-badge-url) — *Linux Foundation* (Issued: Nov 2023)
-- 🎓 [**Meta Front-End Developer Specialization**](https://www.coursera.org/verify/your-cert-id) — *Coursera* (Issued: Jun 2023)
+- 🎓 [**PeopleCert Data Science Foundation and Analyst Course**]([https://www.credly.com/your-badge-url](https://www.linkedin.com/in/iqmal-rosli-508a8720a/)) — *Yayasan Peneraju* (Issued: Jul 2026)
+- 🎓 [**MSDP-DVD - Data Visualization and Dashboards with Power BI**]([https://trainocate.com/certificate/9c6507c8-57a4-4a1f-ac0c-ea617b3f4f33])) — *Trainocate Malaysia* (Issued: May 2026)
+- 🎓 [**AWS-GAIEX - Generative AI for Executives**](https://www.coursera.org/verify/your-cert-id) — *Trainocate Malaysia* (Issued: Mar 2026)
+- 🎓 [**MMCOSAD - Mastering Microsoft Copilot Studio- From Custom Agent Development to M365 Extensibility**]([https://trainocate.com/certificate/90fe0eff-51e9-4d69-a36c-28ae1098d6a0]) — *Trainocate Malaysia* (Issued: Mar 2026)
+- 🎓 [**AWS-GAIEX - Generative AI for Executives**](https://www.coursera.org/verify/your-cert-id) — *Trainocate Malaysia* (Issued: Mar 2026)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
