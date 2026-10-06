@@ -1,14 +1,60 @@
 ![Profile Banner](./assets/banner-hamster.jpg)
 
-# Hi, I'm Iqmal bin Rosli 👋
+# Hi, I'm Iqmal
 
-I am a Data Engineer with a strong background in data architecture, automated workflows, and compliance analytics. I specialize in building robust ETL pipelines and multi-stage data warehouses to process high-volume enterprise data efficiently. 
+Currently in Maybank Protege Program in Group Compliance Financial Crime Compliance. Involved in data analytics and automatation developer. 
+
+
+![Profile Banner](./assets/banner-hamster.jpg)
+
+# Hi, I'm Iqmal 👋
+
+I am currently part of the **Maybank Protégé Program** within **Group Compliance – Financial Crime Compliance (FCC)**. I specialize in **Data Analytics** and **Workflow Automation**, building solutions to streamline compliance processes and eliminate repetitive manual workflows.
+
+---
+
+### 💼 What I Do
+
+- 🏦 **Financial Crime Compliance**: Supporting AML/CFT monitoring, data analysis, and compliance reporting.
+- ⚙️ **Process Automation**: Designing and deploying scripts to automate routine operations and report generation.
+- 📊 **Data Analytics**: Cleaning, transforming, and visualizing datasets to uncover trends and operational insights.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Languages & Data:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Data Analytics & Automation:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📜 Certifications & Highlights
+
+| Certification / Program | Issuing Organization | Status / Credential |
+| :--- | :--- | :---: |
+| **Protégé Trainee (FCC)** | Maybank | Current |
+| **[Add Certification Name]** | [Issuing Org] | [View Credential](https://example.com) |
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
 
 ## 🛠️ Tech Stack & Tools
-* **Languages & Databases:** Python, Oracle SQL, Microsoft SQL Server
-* **Data Architecture & Cloud:** Databricks, Medallion Architecture (Bronze, Silver, Gold layers)
-* **Automation & Orchestration:** Power Automate, n8n, Selenium
-* **BI & Analytics:** Power BI, Excel
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 💼 Experience Highlights
 * **Data Engineering & Compliance @ Maybank:** 
@@ -35,11 +81,6 @@ I actively build end-to-end data architectures, deploying real-time API data ext
 - 🎓 [**MMCOSAD - Mastering Microsoft Copilot Studio- From Custom Agent Development to M365 Extensibility**](https://trainocate.com/certificate/90fe0eff-51e9-4d69-a36c-28ae1098d6a0) — *Trainocate Malaysia* (Issued: Mar 2026)
 - 🎓 [**Power BI Mastery in a Day: Design, Govern, and Deliver Cutting-Edge Data Solutions**](https://trainocate.com/certificate/282e2851-2be9-4c74-a3db-3a83bfa6043f) — *Trainocate Malaysia* (Issued: Feb 2026)
 - 🎓 [**AI for MY Future**](https://pepper-s-site-1c7b.thinkific.com/certificates/jddg0tmrsx) — *Microsoft* (Issued: Apr 2025)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 How to Reach Me
 * **Location:** Petaling Jaya, Selangor, Malaysia
