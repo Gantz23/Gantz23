@@ -29,7 +29,7 @@ I actively build end-to-end data architectures, deploying real-time API data ext
 
 ### 📜 Certifications & Licenses
 
-- 🎓 [**PeopleCert Data Science Foundation and Analyst Course**]([https://www.credly.com/your-badge-url](https://www.linkedin.com/in/iqmal-rosli-508a8720a/)) — *Yayasan Peneraju* (Issued: Jul 2026)
+- 🎓 [**PeopleCert Data Science Foundation and Analyst Course**](https://www.linkedin.com/in/iqmal-rosli-508a8720a/) — *Yayasan Peneraju* (Issued: Jul 2026)
 - 🎓 [**MSDP-DVD - Data Visualization and Dashboards with Power BI**](https://trainocate.com/certificate/9c6507c8-57a4-4a1f-ac0c-ea617b3f4f33) — *Trainocate Malaysia* (Issued: May 2026)
 - 🎓 [**AWS-GAIEX - Generative AI for Executives**](https://www.coursera.org/verify/your-cert-id) — *Trainocate Malaysia* (Issued: Mar 2026)
 - 🎓 [**MMCOSAD - Mastering Microsoft Copilot Studio- From Custom Agent Development to M365 Extensibility**](https://trainocate.com/certificate/90fe0eff-51e9-4d69-a36c-28ae1098d6a0) — *Trainocate Malaysia* (Issued: Mar 2026)
