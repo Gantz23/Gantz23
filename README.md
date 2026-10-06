@@ -2,34 +2,29 @@
 
 # Hi, I'm Iqmal
 
-Currently in Maybank Protege Program in Group Compliance Financial Crime Compliance. Involved in data analytics and automatation developer. 
-
-
-![Profile Banner](./assets/banner-hamster.jpg)
-
-# Hi, I'm Iqmal 👋
-
-I am currently part of the **Maybank Protégé Program** within **Group Compliance – Financial Crime Compliance (FCC)**. I specialize in **Data Analytics** and **Workflow Automation**, building solutions to streamline compliance processes and eliminate repetitive manual workflows.
+I am currently part of the **Maybank Protégé Program** within **Group Compliance – Financial Crime Compliance (FCC)**. I specialize in **AI/ML Developer**, **Workflow Automation**, and **Data Analytics**. building solutions to  compliance processes and eliminate repetitive manual workflows.
 
 ---
 
-### 💼 What I Do
-
-- 🏦 **Financial Crime Compliance**: Supporting AML/CFT monitoring, data analysis, and compliance reporting.
-- ⚙️ **Process Automation**: Designing and deploying scripts to automate routine operations and report generation.
-- 📊 **Data Analytics**: Cleaning, transforming, and visualizing datasets to uncover trends and operational insights.
-
----
-
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Data:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Data Analytics & Automation:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
