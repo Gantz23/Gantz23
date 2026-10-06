@@ -39,4 +39,6 @@ I am currently part of the **Maybank Protégé Program** within **Group Complian
 * **Email:** iqmalrosli12@gmail.com
 * **LinkedIn:** [linkedin.com/in/iqmalrosli](#)
 
-![card1](./assets/cat-drooling.png) ![card2](./assets/cat-drooling.png) ![card3](./assets/cat-drooling.png)
+| | | |
+| :---: | :---: | :---: |
+| ![card1](./assets/skeleton-computer.jpg) | ![card2](./assets/cat-drooling.png) | ![card3](./assets/drake-computer.gif) |
